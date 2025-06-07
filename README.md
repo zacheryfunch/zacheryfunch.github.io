@@ -6,7 +6,7 @@ Welcome to my GitHub! This is where I build, experiment, and refine my coding pr
 
 ## 📂 My Repositories
 Here are some of my main projects:
-- **[CodingProjects](https://github.com/zacheryfunch/CodingPractice/)** – A collection of coding experiments and implementations.
+- **[CodingProjects](https://github.com/zacheryfunch/CodingProjects/)** – A collection of coding experiments and implementations.
 - **[Solutions](https://github.com/zacheryfunch/Solutions/)** – Problem-solving and coding solutions.
 
 ## ⚡ Current Project: ChronoDodoTimer
